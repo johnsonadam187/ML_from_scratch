@@ -38,4 +38,8 @@ if __name__ == '__main__':
     ax = plt.subplot()
     ax.scatter(data[0], data[1])
     plt.show()
+
+# TODO fix error to account or size of each array value by changing to plus minus mean of array
+# TODO think of different ways of generating line instead of linspace, that create more random values
+
     
